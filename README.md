@@ -1,4 +1,4 @@
-# TScan
+# Scanny
 
 TScan is a scanner to find info about public IP Address
 
