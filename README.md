@@ -6,17 +6,17 @@ TScan is a scanner to find info about public IP Address
 
 1.
 ```
-git clone https://github.com/luksi-l/TScan
+git clone https://github.com/luksi-l/Scanny
 ```
 
 2.
 ```
-chmod +x TSec.AppImage
+chmod +x Scanny.AppImage
 ```
 
 3.
 ```
-./TSec.AppImage
+./Scanny.AppImage
 ```
 
 ## Contact
